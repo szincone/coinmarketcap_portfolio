@@ -3,6 +3,9 @@ An easy way to check up on your alt coins using the Coinmarketcap API.
 
 -Written in [Python](https://www.python.org/)
 
+## using the portfolio
+You need to add your coins as variables and then make variables for the coin_amounts. This example uses BTC and ETH. Run it using the 'folio' variable.
+
 ## authors
 -Sawyer Zincone -_intial work_- [szincone](https://github.com/szincone)
 
