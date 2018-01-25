@@ -1,4 +1,4 @@
-# **coinmarketcap_portfolio**
+# coinmarketcap_portfolio
 An easy way to check up on your alt coins using the Coinmarketcap API.
 -Written in [Python](https://www.python.org/).
 
